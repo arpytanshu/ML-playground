@@ -3,9 +3,9 @@
 Each pixel is treated as a data sample.  
 R, G, B value for each pixel is the feature of each sample.  
 
-Now apply KNN with K # of clusters.  
-The resulting image will have K distinct colors only.  
-(which will be the most occuring colors in the original image)
+Applying KNN with K # of clusters.  
+The resulting image will have K distinct colors,  
+which will be the most occuring K colors in the original image.  
 
 ### Results:  
 
