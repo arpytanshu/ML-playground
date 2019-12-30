@@ -1,4 +1,4 @@
-### Using KNN for compressing image.
+### Using k-means for compressing image.
 
 Each pixel is treated as a data sample.  
 R, G, B value for each pixel is the feature of each sample.  
@@ -11,6 +11,3 @@ which will be the most occuring K colors in the original image.
 
 
 ![ref_img](https://github.com/arpytanshu/ML-playground/blob/master/KNN-image-compresison/ref_img.png)
-
-
-
