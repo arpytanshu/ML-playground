@@ -10,4 +10,4 @@ which will be the most occuring K colors in the original image.
 ### Results:  
 
 
-![ref_img](https://github.com/arpytanshu/ML-playground/blob/master/KNN-image-compresison/ref_img.png)
+![ref_img](https://github.com/arpytanshu/ML-playground/blob/master/kmean-image-compression/ref_img.png)
