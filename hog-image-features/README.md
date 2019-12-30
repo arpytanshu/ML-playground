@@ -8,13 +8,10 @@ Image chips from satellite imagery
 Pixel value data for each 80x80 image – stored as a list of 19200 integers  
 
 ### Original Image
-![ref_image](https://github.com/arpytanshu/ML-playground/blob/master/HOG-SVM-detect_ship_satellite_image/input/scenes/sfbay_1.png)
+![ref_image](https://github.com/arpytanshu/ML-playground/blob/master/hog-image-features/input/scenes/sfbay_1.png)
   
 ### Original Images chipped from satellite images  
-![ref_image](https://github.com/arpytanshu/ML-playground/blob/master/HOG-SVM-detect_ship_satellite_image/orig.png)
+![ref_image](https://github.com/arpytanshu/ML-playground/blob/master/hog-image-features/orig.png)
 
 ### Visualization of HOG Features extracted from images  
-![ref_image](https://github.com/arpytanshu/ML-playground/blob/master/HOG-SVM-detect_ship_satellite_image/hog_features.png)
-
-
-
+![ref_image](https://github.com/arpytanshu/ML-playground/blob/master/hog-image-features/hog_features.png)
